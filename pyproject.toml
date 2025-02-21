@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "how-to-show-data"
+version = "0.1.0"
+description = "This repository will store all python code for How to Show Data from math is fun website"
+authors = ["sudiptarathi2020 <rathisudipta99@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "how_to_show_data"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.2.3"
+scipy = "^1.15.2"
+pandas = "^2.2.3"
+seaborn = "^0.13.2"
+matplotlib = "^3.10.0"
+bokeh = "^3.6.3"
+plotly = "^6.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
