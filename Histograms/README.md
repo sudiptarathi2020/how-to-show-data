@@ -1,0 +1,1 @@
+Histogram: a graphical display of data using bars of different heights.
