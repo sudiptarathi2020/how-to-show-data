@@ -1,0 +1,1 @@
+Line Graph: a graph that shows information connected in some way (usually as it changes over time).
