@@ -1,0 +1,1 @@
+Frequency is how often something occurs.
