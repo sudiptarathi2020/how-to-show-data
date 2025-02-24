@@ -1,0 +1,1 @@
+A Scatter (XY) Plot has points that show the relationship between two sets of data.
