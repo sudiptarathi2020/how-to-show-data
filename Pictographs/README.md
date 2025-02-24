@@ -1,0 +1,1 @@
+A Pictograph is a way of showing data using images.
